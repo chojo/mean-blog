@@ -1,3 +1,9 @@
+
+
+in order to see the additional menu entries sign in with
+username: chojo
+password: testtest
+
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
 [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)
