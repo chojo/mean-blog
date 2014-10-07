@@ -1,12 +1,3 @@
-
-
-Some steps i had to make:
-* nvm use v0.11.14  
-* sudo npm cache clean && npm uninstall -g yo && npm install -g yo  
-
-
-
-
 [![MEAN.JS Logo](http://meanjs.org/img/logo-small.png)](http://meanjs.org/)
 
 [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)

@@ -2,8 +2,8 @@
 
 module.exports = {
 	app: {
-		title: 'Blog',
-		description: 'MEAN answer to famous DHH demo',
+		title: 'mean-blog',
+		description: 'Test',
 		keywords: 'MongoDB, Express, AngularJS, Node.js'
 	},
 	port: process.env.PORT || 3000,

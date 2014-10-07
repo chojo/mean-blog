@@ -1,7 +1,7 @@
 {
-	"name": "blog",
+	"name": "mean-blog",
 	"version": "0.0.1",
-	"description": "MEAN answer to famous DHH demo",
+	"description": "Test",
 	"dependencies": {
 		"bootstrap": "~3",
 		"angular": "~1.2",
